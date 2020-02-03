@@ -4,10 +4,8 @@
   min-height: 600px;
   max-width: 500px;
 }
-p {
-  font-family: Lato;
-}
 * {
   padding: 10px;
   margin: 10px;
+  font-size: 21px;
 }
